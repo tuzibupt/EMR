@@ -1,0 +1,800 @@
+21	Matthias Hemmje	0	3	
+31	Joachim Diederich	0	2	
+36	Wei Li	0	1	
+55	Roger King	0	0	
+80	Timothy W. Finin	0	2	
+107	Sheau-Dong Lang	0	3	
+116	Sukhamay Kundu	0	2	
+125	Markus Schneider	0	0	
+143	Jun Chen	0	0	
+147	Yan Liu	0	3	
+150	Hongwei Zhang	0	1	
+154	Ling Feng	0	1	
+175	Shusaku Tsumoto	0	1	
+182	Benjamin G. Zorn	0	0	
+200	Munindar P. Singh	0	2	
+232	Jun Yan	0	1	
+237	Avraham Leff	0	0	
+243	Ajay Gupta	0	0	
+248	Tao Wang	0	2	
+253	Sadok Ben Yahia	0	1	
+254	Maarten Marx	0	0	
+257	Andrzej Szalas	0	2	
+258	Jian Chen	0	1	
+263	Franz Baader	0	2	
+280	William Adams	0	2	
+300	Norman K. Sondheimer	0	2	
+306	Robert St. Amant	0	2	
+308	Richard Fikes	0	2	
+315	Evan Sultanik	0	2	
+336	Cecile T. Balkanski	0	2	
+344	Bikramjit Banerjee	0	2	
+370	Mehdi T. Harandi	0	2	
+388	Gheorghe Tecuci	0	2	
+400	Benjamin W. Wah	0	2	
+401	David Kortenkamp	0	2	
+443	Mark E. Stickel	0	2	
+455	Jens Christensen	0	2	
+461	Tad Hogg	0	2	
+475	Daniel D. Suthers	0	2	
+483	Susan Craw	0	2	
+498	Denver Dash	0	2	
+508	Mike Williamson	0	2	
+525	Maheshkumar Sabhnani	0	1	
+538	Susan P. Ennis	0	2	
+541	Marco Gori	0	2	
+544	John O. Everett	0	2	
+552	Jimmy Ho-Man Lee	0	2	
+560	Robert C. Holte	0	2	
+567	Andrew P. Witkin	0	2	
+574	Susan Fox	0	2	
+581	Daniel Frost	0	2	
+592	John Gaschnig	0	2	
+594	Martin Gebser	0	2	
+597	Christopher W. Geib	0	2	
+600	Melinda T. Gervasio	0	2	
+602	Lise Getoor	0	1	
+615	Devika Subramanian	0	2	
+633	Steve G. Romaniuk	0	2	
+653	Jeff Rickel	0	2	
+662	Jinbo Huang	0	2	
+663	Gary H. Ogasawara	0	2	
+678	Takayuki Ito	0	2	
+686	Daniel Boley	0	1	
+695	Sanjaya Addanki	0	2	
+701	Jeff Pepper	0	2	
+702	Meir Kalech	0	2	
+735	K. Ramesh	0	2	
+752	Robert Levinson	0	2	
+764	Prasad Tadepalli	0	2	
+765	Gerald Liu	0	2	
+809	James R. Meehan	0	2	
+812	Arthur C. Sanderson	0	2	
+824	Leora Morgenstern	0	2	
+868	Massimo Poesio	0	2	
+871	K. Prazdny	0	2	
+872	Steven David Prestwich	0	2	
+896	David B. Skalak	0	2	
+900	David E. Wilkins	0	2	
+905	Mehran Sahami	0	2	
+918	Albrecht Schmiedel	0	2	
+921	L. Y. Shih	0	2	
+939	Steven L. Small	0	2	
+942	Paul Smolensky	0	2	
+943	A. Ricardo Morales	0	2	
+944	Vishal Soni	0	2	
+974	Ke Wang	0	1	
+980	Lawrence K. Saul	0	2	
+983	Robert S. Galen	0	2	
+984	Nitin Indurkhya	0	1	
+989	William M. Wells III	0	2	
+1025	Han Lin	0	2	
+1028	Zhenglu Yang	0	2	
+1031	H. Brendan McMahan	0	2	
+1032	Dan Klein	0	2	
+1035	Tony Veale	0	2	
+1050	Christian Meilicke	0	2	
+1064	Meghyn Bienvenu	0	2	
+1075	Kasia Muldner	0	2	
+1083	Masashi Sugiyama	0	2	
+1092	Jordi Levy	0	2	
+1097	Christopher Kiekintveld	0	2	
+1111	Piero A. Bonatti	0	2	
+1121	Yunbo Cao	0	3	
+1122	Hae-Chang Rim	0	3	
+1123	Yonatan Aumann	0	1	
+1131	Boris Motik	0	2	
+1147	Yves Kodratoff	0	2	
+1153	Bob J. Wielinga	0	2	
+1169	Ting Liu	0	3	
+1172	Nikolay G. Zagoruiko	0	2	
+1177	Pablo Castells	0	3	
+1183	Shlomo Argamon	0	3	
+1185	Phil Blunsom	0	3	
+1194	Wen-Hsiang Lu	0	3	
+1197	Kenneth Ward Church	0	3	
+1213	Xinsong Xia	0	3	
+1233	Youngjoong Ko	0	3	
+1237	Bin Ma	0	3	
+1242	Benjamin Taskar	0	2	
+1260	Frank A. Smadja	0	3	
+1267	Erik F. Tjong Kim Sang	0	3	
+1274	Jing Jiang	0	3	
+1302	David B. Lomet	0	0	
+1315	Richard J. Reid	0	2	
+1321	Dan E. Willard	0	0	
+1341	Evimaria Terzi	0	1	
+1355	Martin Gogolla	0	0	
+1356	Heinrich Jasper	0	0	
+1357	Mariano P. Consens	0	0	
+1359	Alejandro P. Buchmann	0	0	
+1368	Felix Naumann	0	1	
+1381	Sotiris Brakatsoulas	0	0	
+1404	C. Mohan	0	0	
+1408	Guido Proietti	0	1	
+1417	Xiaochun Yang	0	0	
+1420	Anastasios Gounaris	0	0	
+1426	Jean-Marie Nicolas	0	0	
+1429	Roberto Zicari	0	0	
+1438	Minyoung Ra	0	0	
+1443	Sang-goo Lee	0	3	
+1449	Inderpal Singh Mumick	0	0	
+1450	Oded Shmueli	0	0	
+1454	Wee Keong Ng	0	1	
+1463	Milad Shokouhi	0	3	
+1466	Katia Obraczka	0	3	
+1476	Matthias Schubert	0	1	
+1480	Kothuri Venkata Ravi Kanth	0	0	
+1482	Ambuj K. Singh	0	0	
+1499	Stefano Ferilli	0	2	
+1517	Fausto Rabitti	0	0	
+1525	Oege de Moor	0	0	
+1548	Sergio Greco	0	0	
+1549	Francesco Bergadano	0	2	
+1553	Franco Turini	0	1	
+1554	Yan-Nong Huang	0	0	
+1579	Victoria S. Uren	0	3	
+1581	Ben Choi	0	1	
+1588	Petteri Nurmi	0	3	
+1597	Paolo Terenziani	0	2	
+1634	Kazunori Matsumoto	0	3	
+1640	Ziming Zhuang	0	3	
+1644	Atsuhiro Takasu	0	3	
+1650	Terrance E. Boult	0	2	
+1653	Stefan A. Robila	0	1	
+1656	Philippe Laborie	0	2	
+1659	Werner Stephan	0	2	
+1683	Huyen-Trang Vu	0	3	
+1693	Hans Wegener	0	0	
+1705	Jun Zhang 0002	0	1	
+1720	M. Narasimha Murty	0	2	
+1727	Iyer N. Subramanian	0	0	
+1731	Pierre-Francois Marteau	0	3	
+1733	Raghu Machiraju	0	1	
+1734	Kouzou Ohara	0	1	
+1754	David R. H. Miller	0	3	
+1757	Hans W. Guesgen	0	2	
+1758	H. Chang	0	0	
+1762	Richard J. Lipton	0	0	
+1787	Russell C. Swan	0	3	
+1800	S. Muthukrishnan	0	0	
+1808	Yali Zhu	0	0	
+1809	Geguang Pu	0	3	
+1838	Tony P. Ng	0	0	
+1845	I. V. Ramakrishnan	0	3	
+1850	Edward D. Lazowska	0	0	
+1854	Jaswinder Pal Singh	0	3	
+1865	Siobhan Devlin	0	3	
+1880	Stephan Hartmann	0	3	
+1882	Shengquan Wang	0	1	
+1897	Long Wang	0	3	
+1910	Jean-Luc Hainaut	0	0	
+1912	Hui Fang	0	3	
+1916	J. G. (Iain) Wallace	0	2	
+1947	Thomas Brinkhoff	0	0	
+1962	Alan R. Hevner	0	0	
+1967	Giancarlo Martella	0	0	
+1971	Laura M. Haas	0	0	
+1981	Tommi Jaakkola	0	2	
+1982	Abhijit Pol	0	0	
+1984	Chun Tang	0	1	
+1995	Zengjian Hu	0	1	
+1997	Gabriel M. Kuper	0	0	
+2025	Arnaud Sahuguet	0	0	
+2027	Carol Small	0	0	
+2028	Alberto H. F. Laender	0	3	
+2048	Bernhard Seeger	0	0	
+2053	Andreas Arning	0	1	
+2062	Hong Hai Do	0	0	
+2065	Andrew U. Frank	0	0	
+2075	Sam Lightstone	0	0	
+2080	Rainer Melchert	0	0	
+2089	Bernhard Zeller	0	0	
+2103	David W. Stemple	0	0	
+2120	Lance R. Williams	0	2	
+2121	Valeria De Antonellis	0	0	
+2127	Brian A. Nixon	0	0	
+2135	Ibrahim Kamel	0	0	
+2137	Jonathan Tang	0	1	
+2148	Harumi A. Kuno	0	0	
+2159	Cheng Luo	0	0	
+2164	Sudarshan S. Chawathe	0	0	
+2167	Dunja Mladenic	0	1	
+2179	Dimitrios Gunopulos	0	1	
+2188	Ion Androutsopoulos	0	3	
+2194	Marc Toussaint	0	2	
+2210	Sandra G. Hirsh	0	3	
+2230	Micha Hofri	0	0	
+2231	Baoli Li	0	3	
+2245	Hari Balakrishnan	0	0	
+2253	Ravishankar Ramamurthy	0	0	
+2255	Shivnath Babu	0	0	
+2268	Philip K. Chan	0	1	
+2275	Ahmed K. Elmagarmid	0	0	
+2284	Razvan Stefan Bot	0	3	
+2294	Jing Bai	0	3	
+2305	Hung-Chen Chen	0	3	
+2306	Christine T. Cheng	0	3	
+2307	Mukund Deshpande	0	1	
+2324	Sujoe Bose	0	0	
+2340	Torsten Grabs	0	0	
+2342	Mark Hansen	0	3	
+2347	Bijit Hore	0	1	
+2357	Hoang Oanh Nguyen Thi	0	3	
+2375	Shenghuo Zhu	0	3	
+2381	Riccardo Martoglia	0	3	
+2390	Benjamin Piwowarski	0	3	
+2396	Jason Sankey	0	3	
+2399	Bin Chen	0	1	
+2444	Paul Thomas	0	3	
+2472	Toon Calders	0	1	
+2479	Jing Dai	0	1	
+2482	R. M. Lea	0	3	
+2485	Alexander C. Loui	0	2	
+2505	Christof Monz	0	3	
+2523	K. Sundar Das	0	0	
+2533	Takahiko Shintani	0	1	
+2535	Seymour Ginsburg	0	0	
+2554	Shai Fine	0	3	
+2578	Frank E. Levine	0	0	
+2599	Jonathan D. Becher	0	1	
+2608	Sandra Poulain	0	3	
+2612	Michel Van Caneghem	0	2	
+2623	Jun Huan	0	1	
+2629	Yi-Cheng Tu	0	0	
+2633	Yan Pan	0	3	
+2644	Roberto Cornacchia	0	3	
+2669	Jane W.-S. Liu	0	0	
+2711	Choh-Man Teng	0	1	
+2726	Christian Wiesner	0	0	
+2732	Lucian Popa	0	0	
+2739	Xiaolei Qian	0	0	
+2741	T. Lougenia Anderson	0	0	
+2755	Suman Nath	0	0	
+2783	Hans-Peter Frei	0	3	
+2791	Mirella Moura Moro	0	0	
+2792	Navneet Panda	0	1	
+2804	Takuya Maekawa	0	3	
+2806	Albert Bifet	0	1	
+2813	Alan F. Karr	0	1	
+2817	Shlomo Hershkop	0	1	
+2823	Xiaoshu Hang	0	1	
+2828	Joel D. Martin	0	2	
+2829	Aravindan Veerasamy	0	3	
+2838	Sui-ky Ringo Ling	0	2	
+2840	L. Peter Deutsch	0	2	
+2844	Dimitris Sacharidis	0	1	
+2856	Isabelle Alvarez	0	2	
+2862	Anthony I. Hinxman	0	2	
+2880	Tim Pohle	0	3	
+2886	David Hannah	0	3	
+2887	Trevor Strohman	0	3	
+2891	Ram Akella	0	3	
+2912	Jochen Garcke	0	2	
+2918	Johan Schubert	0	1	
+2933	Karin Kailing	0	1	
+2934	Sheldon J. Finkelstein	0	0	
+2940	Linan Jiang	0	0	
+2950	Ahmed Metwally	0	0	
+2955	Stelios Paparizos	0	0	
+2956	Todd J. Green	0	0	
+2958	James F. Cunningham	0	3	
+2965	Thomas List	0	0	
+2971	James P. Fry	0	0	
+2972	Alfonso F. Cardenas	0	0	
+2973	Ole Oren	0	0	
+2981	Antoine Doucet	0	3	
+2993	Pavlos Efraimidis	0	3	
+3006	Tomi Yiu	0	1	
+3023	Lior Rokach	0	1	
+3027	Gael N. Buckley	0	0	
+3029	Robert Y. Hou	0	0	
+3040	Andreas Broschart	0	3	
+3043	Nicole Schneider	0	0	
+3058	Shaoyu Zhou	0	0	
+3059	Yibin Chen	0	0	
+3072	Daniel E. Whitney	0	2	
+3074	T. C. Chen	0	0	
+3080	Mert Bay	0	3	
+3090	Qicheng Ma	0	1	
+3105	Jungi Kim	0	3	
+3107	Sourabh A. Niyogi	0	2	
+3150	Vibby Gottemukkala	0	0	
+3162	Hisashi Kashima	0	1	
+3173	Paola Mauri	0	0	
+3185	Peter Rathmann	0	0	
+3188	Nigel Wu	0	0	
+3196	B. K. Mohan	0	0	
+3197	Yue Zhuge	0	0	
+3198	Nuwee Wiwatwattana	0	0	
+3209	Chaitanya Mishra	0	0	
+3255	Dae-Ki Kang	0	1	
+3275	Ching-Yao Wang	0	1	
+3281	Nam Nguyen	0	1	
+3295	David M. Kaplan	0	2	
+3302	Akira Kurematsu	0	2	
+3333	Shravan Matthur Narayanamurthy	0	2	
+3335	Dijun Luo	0	1	
+3340	Huizhong Long	0	3	
+3341	Sandeep Khanzode	0	1	
+3346	Chao Zhou	0	1	
+3375	Li-Dong Cai	0	2	
+3396	Alan Fleming	0	2	
+3404	Steve Hardy	0	2	
+3429	Paul B. Post	0	2	
+3430	J. Potter	0	2	
+3442	Hongjun Song	0	2	
+3460	David D. Jensen	0	1	
+3469	Toomas Timpka	0	3	
+3476	Saket S. R. Mengle	0	3	
+3484	Don Vines	0	0	
+3489	Simon Dennis	0	3	
+3500	Yu Zhu	0	1	
+3502	Andrew Connolly	0	1	
+3515	Wan-Ping Chiang	0	2	
+3516	Andreas Buja	0	1	
+3530	Sathyakama Sandilya	0	1	
+3539	Seth Hettich	0	1	
+3550	Malcolm Potts	0	1	
+3570	Nandini Raghavan	0	1	
+3586	Soon Hock William Tay	0	1	
+3621	Dhruv Gupta	0	3	
+3624	Philip C. Woodland	0	3	
+3632	Kenneth R. Jacobs	0	0	
+3635	John W. Tukey	0	3	
+3655	Thorsten Meyer	0	0	
+3660	Yuh-Ming Shyy	0	0	
+3676	Deniz Aktug	0	3	
+3678	Vikas Khandelwal	0	3	
+3687	Hyuk-Jin Lee	0	3	
+3708	Eric Crestan	0	3	
+3729	Chandu Karadi	0	3	
+3730	Kazuhiko Niimi	0	3	
+3735	Diane L. Elliot	0	3	
+3755	Yu-Hwan Kim	0	3	
+3762	Steve Kirsch	0	3	
+3764	A. M. Botman	0	3	
+3771	Duk whan Oh	0	3	
+3784	Ramesh Sankaranarayanan	0	3	
+3792	Masumi Narita	0	3	
+3805	Mari Saito	0	3	
+3841	Budi Rahardjo	0	3	
+3855	Rongmei LI	0	3	
+3856	Ioannis Arapakis	0	3	
+3863	Luca Ghilardi	0	3	
+3886	Benoit Dumoulin	0	3	
+3897	Gideon Schaller	0	0	
+3900	John L. Berg	0	0	
+3920	Michael Suckow	0	0	
+3922	Leo R. Gotlieb	0	0	
+3943	Reed M. Meseck	0	0	
+3945	Nicholas J. Multari	0	0	
+3950	Kiyoshi Ono	0	0	
+3964	Michael Ubell	0	0	
+3969	Alon Pilberg	0	0	
+3970	Nilesh Bansal	0	1	
+3972	Laura Yedwab	0	0	
+3980	Nancy H. Coguen	0	0	
+3983	Simon Kamenkovich	0	0	
+4033	Frode Aschim	0	0	
+4048	M. Theys	0	0
+2	Gady Agam	0	3
+57	M. Cameron Jones	0	3
+61	Matt Jones	0	3
+63	Nick Cercone	0	1
+109	Morgan C. Wang	0	1
+158	Ying Zhang	0	3
+166	Junqiang Liu	0	1
+190	Joxan Jaffar	0	2
+195	Moustafa Ghanem	0	1
+230	Jin-Kao Hao	0	2
+236	Hasan Davulcu	0	1
+255	Martine De Cock	0	3
+267	John K. Slaney	0	2
+279	Cristopher Moore	0	2
+285	Fabrizio Angiulli	0	1
+298	David W. Aha	0	2
+324	Qiang Yang	0	2
+331	Dennis F. Kibler	0	2
+338	Scott Davies	0	2
+342	Robert Neches	0	2
+361	Stephen J. Buckley	0	2
+373	Jack Mostow	0	2
+375	Duane Szafron	0	2
+386	Dana F. Wilkinson	0	2
+394	Robert L. Blum	0	2
+396	Solomon Eyal Shimony	0	2
+421	Alan Bundy	0	2
+432	David Carmel	0	3
+446	Radhika Nagpal	0	2
+456	Jennifer Chu-Carroll	0	3
+464	Martin Rajman	0	3
+465	Peter Jeavons	0	2
+466	Niall M. Adams	0	1
+484	James M. Crawford	0	2
+490	Deborah A. Dahl	0	2
+494	Charles B. Callaway	0	2
+502	S. S. Ravi	0	1
+519	Steven K. Donoho	0	2
+526	Gavan Duffy	0	2
+527	Susan T. Dumais	0	3
+564	Akshay Java	0	2
+587	Antony Galton	0	2
+619	Russell Greiner	0	2
+636	Tracy Hammond	0	2
+647	Joseph L. Hellerstein	0	1
+652	Michael Thielscher	0	2
+657	Keiko Horiguchi	0	2
+658	Ian Horrocks	0	2
+659	John F. Horty	0	2
+682	Takenobu Tokunaga	0	3
+690	Jeffrey Johns	0	2
+691	Sridhar Mahadevan	0	2
+706	Michael Kass	0	2
+707	Kenneth A. Kaufman	0	1
+715	Todd C. Mowry	0	0
+724	Mieczyslaw M. Kokar	0	2
+726	Andrew P. Kosoresow	0	2
+740	Kristian Kersting	0	2
+742	Pattie Maes	0	2
+753	Tod S. Levitt	0	2
+761	Lin Liao	0	2
+774	Shai Ben-David	0	1
+775	Charles X. Ling	0	2
+780	Dragos D. Margineantu	0	2
+787	John MacIntyre	0	2
+788	Luca Maria Gambardella	0	2
+789	Trevor Walker	0	2
+791	Omid Madani	0	2
+797	Gregory Druck	0	2
+831	Peter W. Mullarkey	0	2
+833	Ramesh S. Patil	0	2
+852	Jun-ichi Tsujii	0	3
+857	Lushan Han	0	3
+862	William Pentney	0	2
+880	David A. Bell	0	1
+886	Amit Ramesh	0	2
+889	Otthein Herzog	0	3
+927	Chern H. Seet	0	2
+929	Alberto Maria Segre	0	2
+932	Teddy Candale	0	2
+953	Jonathan Stillman	0	2
+958	Joan Feigenbaum	0	0
+966	Richard M. Tong	0	3
+994	Andrew G. Barto	0	2
+996	Ramin Zabih	0	2
+1026	Matthew Kitching	0	2
+1066	Antonio Roque	0	2
+1099	Ryohei Nakano	0	2
+1103	Eytan Adar	0	3
+1105	Sven Seuken	0	2
+1107	Mark Austin	0	2
+1109	Jun Wang	0	3
+1118	Songcan Chen	0	1
+1120	Young-In Song	0	3
+1124	Jian Hu	0	3
+1127	Yilan Gu	0	2
+1129	Michael Winikoff	0	2
+1134	Rudi Lutz	0	2
+1143	Hartmut Ehrig	0	0
+1149	Jochen Ludewig	0	0
+1161	Jun Miura	0	2
+1176	Akiko N. Aizawa	0	3
+1182	Felisa Verdejo	0	3
+1184	Salim Roukos	0	3
+1192	Kemal Oflazer	0	0
+1199	Victor Ciesielski	0	1
+1217	Andrew R. Haas	0	2
+1224	Myung-Gil Jang	0	3
+1253	Terry Regier	0	2
+1254	Rebecca N. Wright	0	1
+1263	Takashi Miyata	0	2
+1266	Jeongwoo Ko	0	3
+1268	Olena Medelyan	0	3
+1271	Songbo Tan	0	3
+1279	Peter Bodorik	0	0
+1281	Deborah Hix	0	3
+1284	Soon Myoung Chung	0	1
+1285	Nell B. Dale	0	0
+1300	Rob Kling	0	2
+1308	Dominique Rieu	0	0
+1309	Zdzislaw Pawlak	0	1
+1312	Gail E. Kaiser	0	0
+1318	John Tolle	0	3
+1330	Soumyadeb Mitra	0	0
+1332	Hans-Ulrich Heiss	0	0
+1337	Giovanni Adorni	0	2
+1342	Shawn Bowers	0	0
+1361	Parke Godfrey	0	0
+1363	Kian-Lee Tan	0	0
+1376	Sara Cohen	0	0
+1410	Tadashi Ohmori	0	0
+1413	Giedrius Slivinskas	0	0
+1424	Alessandro D'Atri	0	0
+1430	Michel A. Melkanoff	0	0
+1437	Jeffrey Xu Yu	0	0
+1440	Zhao Yang Dong	0	1
+1444	Hongjian Fan	0	1
+1457	Maria-Luiza Antonie	0	1
+1462	William R. Hersh	0	3
+1467	Erik Buchmann	0	1
+1488	Wen-Syan Li	0	0
+1491	Pamela Drew	0	0
+1501	Ting Chen	0	0
+1502	Hector Gonzalez	0	1
+1503	Craig Saunders	0	2
+1511	Hongyan Liu	0	1
+1513	Fengzhan Tian	0	1
+1522	Kenneth A. De Jong	0	2
+1533	Michael R. Lyu	0	3
+1555	Floriana Esposito	0	2
+1560	Wei-Ying Ma	0	3
+1563	Stefano Mizzaro	0	3
+1565	Chris Staff	0	3
+1569	Tony Abou-Assaleh	0	3
+1571	Howard J. Hamilton	0	1
+1574	S. K. Michael Wong	0	3
+1599	Maurizio Atzori	0	1
+1608	Ruggero G. Pensa	0	1
+1623	Laurence Cholvy	0	2
+1648	Erol Gelenbe	0	0
+1652	Ronald R. Yager	0	2
+1658	T. L. McCluskey	0	2
+1661	Yunfei Jiang	0	2
+1663	Jason Wolfe	0	2
+1679	Mann-Ho Lee	0	3
+1699	Giuseppe Di Battista	0	0
+1700	Holger Bast	0	3
+1702	Rolf Socher-Ambrosius	0	2
+1711	Eyal Even-Dar	0	2
+1716	Genshiro Kitagawa	0	1
+1723	Setsuo Ohsuga	0	1
+1737	Xiangyu Jin	0	3
+1742	Stefano Berretti	0	3
+1756	Werner Dubitzky	0	2
+1760	Nancy D. Griffeth	0	0
+1763	Steven Schockaert	0	3
+1811	DucDung Nguyen	0	1
+1814	Karen Brannon	0	0
+1817	Lei Ji	0	3
+1830	Gu Xu	0	3
+1833	Kai Yu	0	3
+1840	Ueli M. Maurer	0	0
+1842	Sheng Zhong	0	1
+1862	Jacob Slonim	0	3
+1866	Yohei Seki	0	3
+1888	Feng Liang	0	1
+1890	Dorian Suc	0	2
+1901	Chao Liu	0	1
+1907	Eben M. Haber	0	0
+1924	Georges Gardarin	0	0
+1941	M. Galibourg	0	3
+1951	Marcin Skubiszewski	0	0
+1980	Robert F. Murphy	0	1
+1985	Murali Ramanathan	0	1
+1989	Yongjing Lin	0	3
+1991	Yu He	0	1
+2022	Jorge B. Bocca	0	0
+2026	Hyoung-Joo Kim	0	0
+2033	H. Noble	0	0
+2034	Sergei O. Kuznetsov	0	1
+2055	Jukka Teuhola	0	0
+2058	Peter Baumann	0	0
+2066	Wolfgang Wilkes	0	0
+2076	Adam J. Storm	0	0
+2092	Martin Theobald	0	3
+2099	Andrei Z. Broder	0	3
+2143	Amy J. Lee	0	0
+2144	Ming-Ling Lo	0	0
+2150	Walid Rjaibi	0	0
+2154	Elaine G. Toms	0	3
+2163	Yehoshua Sagiv	0	0
+2172	Kenneth McGarry	0	2
+2180	Tobias Mayr	0	0
+2183	Vijayalakshmi Atluri	0	0
+2207	Susan Dziadosz	0	3
+2217	Christine L. Borgman	0	3
+2226	Aya Soffer	0	3
+2241	Karl Dias	0	0
+2288	Michael Herscovici	0	3
+2289	Dulce B. Ponceleon	0	3
+2292	Lijuan Cai	0	3
+2299	Prasan Roy	0	0
+2300	Christos Faloutsos	0	1
+2303	Vassos Hadzilacos	0	0
+2311	W. B. Dress	0	3
+2314	Krishna Prasad Chitrapura	0	1
+2328	Tu Van Le	0	3
+2376	Lei Chen 0002	0	0
+2400	Yang Song	0	3
+2411	Nina Tayar	0	0
+2416	Theodora Tsikrika	0	3
+2422	Michael Mlivoncic	0	3
+2433	Azadeh Shakery	0	3
+2436	Craig Macdonald	0	3
+2442	Chris Burges	0	3
+2445	Enrique Puertas Sanz	0	3
+2449	Donghui Zhang	0	0
+2451	Jong Wook Kim	0	3
+2460	Duo Zhang	0	3
+2474	Cristian Bucila	0	1
+2480	Bin Zhao	0	1
+2491	Jung-Hwan Oh	0	0
+2499	Heikki Keskustalo	0	3
+2531	Martin Grohe	0	0
+2539	Kimmo Koskenniemi	0	3
+2541	Douglas R. Skuce	0	2
+2542	Richard A. Feinauer	0	3
+2590	Jenq-Haur Wang	0	3
+2614	Jonathan Furner	0	3
+2624	Jan Prins	0	1
+2639	Mirco Nanni	0	1
+2655	Andrew Moore	0	1
+2659	Luca Becchetti	0	1
+2678	Yi-Hung Wu	0	1
+2679	Byron Choi	0	0
+2703	Frans Coenen	0	1
+2716	Ryosuke Hotaka	0	0
+2718	U. Kersten	0	0
+2722	Rob Gerritsen	0	0
+2727	Ahmet Bulut	0	0
+2730	David Beech	0	0
+2736	Bennet Vance	0	0
+2742	Nicola Onose	0	0
+2746	Jolly Chen	0	0
+2759	Herbert Kuss	0	0
+2764	Lipyeow Lim	0	0
+2767	Christopher Wood	0	0
+2772	Fragkiskos Pentaris	0	0
+2773	Tamas E. Doszkocs	0	3
+2780	Ionut Emil Iacob	0	0
+2820	Yoko Ishino	0	1
+2824	Andreas Karwath	0	1
+2837	Prabhu Ram	0	0
+2847	Holger Riedel	0	0
+2849	Ian T. Nabney	0	1
+2855	M. R. Adler	0	2
+2859	Dennis de Champeaux	0	2
+2868	David H. D. Warren	0	0
+2872	Michael Kaess	0	2
+2879	Alexander M. Robertson	0	3
+2896	George Philip	0	0
+2899	Chien Chin Chen	0	3
+2903	Arkadiusz Wojna	0	1
+2911	Gemma C. Garriga	0	1
+2921	Yanzan Zhou	0	1
+2941	Bethina Schmitt	0	3
+2945	Umesh Maheshwari	0	0
+2946	Meng Hu	0	1
+2998	Gregory Piatetsky-Shapiro	0	1
+3012	David R. Musicant	0	1
+3033	Donald B. Crouch	0	3
+3046	Sheng Wu	0	3
+3052	Henry Haining Zhang	0	1
+3056	Manuel Zahariev	0	3
+3062	Kurt P. Brown	0	0
+3069	Richard G. Larson	0	1
+3078	Wendy A. Lawrence-Fowler	0	3
+3094	Udayan Khurana	0	3
+3096	Paul Mermelstein	0	2
+3100	Varun Chandola	0	1
+3113	Yuan Ni	0	0
+3134	Sashikanth Chandrasekaran	0	0
+3136	Ding-Ying Chiu	0	1
+3149	Shridhar Shukla	0	0
+3154	Markus Wawryniuk	0	1
+3164	Vinayak R. Borkar	0	0
+3175	Kelvin T. Leung	0	1
+3181	Spiros Papadimitriou	0	1
+3194	Tetsuo Mizoguchi	0	0
+3217	Jinchuan Chen	0	0
+3224	Robin Dhamankar	0	0
+3226	Mohamed E. Khalefa	0	0
+3228	Georgiana Ifrim	0	1
+3229	Jagrati Agrawal	0	0
+3230	Ashutosh Singh	0	0
+3252	Thomas George	0	1
+3259	Nga T. Nguyen	0	1
+3271	Marcos M. Campos	0	1
+3292	Hanhuai Shan	0	1
+3294	Srivatsan Laxman	0	1
+3300	Brian Stafford	0	1
+3314	Lee A. Appelbaum	0	3
+3318	Thomas Finley	0	2
+3339	Cory Reina	0	1
+3343	Alistair McLean	0	3
+3354	Douglas A. Newlands	0	1
+3355	Antti Ukkonen	0	1
+3368	Gilbert Falk	0	2
+3373	Hiroshi Matoba	0	3
+3386	Kathryn M. Chalfan	0	2
+3395	Richard D. Ferrante	0	2
+3405	David G. Heath	0	2
+3415	Amit Mandvikar	0	1
+3424	Walton A. Perkins	0	2
+3439	Roger Y. Tsai	0	2
+3445	S. M. Udupa	0	2
+3447	Franck du Verdier	0	2
+3459	Karolina Eliasson	0	2
+3472	Deept Kumar	0	1
+3477	Robert H. Warren	0	3
+3485	Kazuko Kuriyama	0	3
+3506	Pavel Berkhin	0	1
+3518	Scott Gaffney	0	1
+3533	Greg Ridgeway	0	1
+3536	Gerald Fahner	0	1
+3542	Jon Hutchins	0	1
+3556	Jeffrey Benkler	0	1
+3559	Lisa Friedland	0	1
+3566	John O'Kane	0	1
+3578	Ed Willis	0	1
+3579	David Stodder	0	1
+3587	Andreas S. Weigend	0	1
+3590	Vincent Cho	0	1
+3595	Jonathan Betz	0	1
+3598	P. S. Sastry	0	1
+3603	Keng-Pei Lin	0	1
+3629	P. Kachhwaha	0	0
+3638	Arnaud Ragel	0	1
+3648	Anguel Novoselsky	0	0
+3661	Justin Talbot	0	3
+3689	Peter Biebricher	0	3
+3722	Hongzhao He	0	3
+3731	Clemens Kunkel	0	3
+3733	Peter V. Henstock	0	3
+3738	Gianluca Garbolino	0	3
+3749	Sukhmay Kundu	0	3
+3751	Toshihiko Nozue	0	3
+3767	William Kornfeld	0	3
+3773	M. E. Maron	0	3
+3798	Fred Gaey	0	3
+3801	Kim Birchard	0	3
+3819	Mark A. Stairmand	0	3
+3823	Ryan Schultz	0	3
+3829	Michael A. S. Potts	0	3
+3832	Chih-Fong Tsai	0	3
+3838	Komanduru Sai C	0	3
+3844	Xiubo Geng	0	3
+3854	Erik Elgersma	0	3
+3857	Ayan Bandyopadhyay	0	3
+3870	Jangwon Seo	0	3
+3894	Kamar Aulakh	0	0
+3901	Brett Berlin	0	0
+3908	Peter McIlroy	0	0
+3909	David Shutt	0	0
+3916	Donald R. Deutsch	0	0
+3917	Murray Edelberg	0	0
+3930	Jay Kasi	0	0
+3932	Sherri Kennamer	0	0
+3936	Philip L. Lehman	0	0
+3939	Thomas Maguire	0	0
+3956	Gayatri Sathe	0	1
+3961	Joshua Spiegel	0	0
+3979	Christian Euzet	0	0
+3989	Rune Humborstad	0	0
+3990	William Bridge	0	0
+4006	H. G. Heard	0	0
+4010	F. E. Johnson	0	0
+4019	Mavis K. Lee	0	0
+4040	Naveen Reddy	0	0
+4041	Janet E. Somers	0	0
